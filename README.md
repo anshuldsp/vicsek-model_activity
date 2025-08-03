@@ -7,7 +7,7 @@ This repository contains a NumPy-accelerated implementation of the Vicsek model 
 Particles self-propel at constant speed and align with their neighbors' direction within a fixed radius, with some random noise.
 
 Features:
-%- Vectorized for speed using NumPy
+<!-- - Vectorized for speed using NumPy -->
 - Periodic boundary conditions
 - Angle-based coloring of particles
 - Realtime animation via matplotlib
